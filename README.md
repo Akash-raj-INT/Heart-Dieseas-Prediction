@@ -20,5 +20,9 @@ pip install streamlit
 streamlit run app.py
 ```
 
+## Live Demo
+Open the deployed app here:
+https://akash-raj-int-heart-dieseas-prediction-app-lrq548.streamlit.app/
+
 ## Project Purpose
 This app demonstrates how a machine learning model can be deployed as a web application for heart disease risk prediction.
